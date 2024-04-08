@@ -57,7 +57,7 @@ body,
 /* will be added when user drags */
 .drop-zone.dragged {
   background: var(--main-bg-color);
-  border-color: #0288d1;
+  border-color: #f38e21;
 }
 
 .drop-zone input {
@@ -145,7 +145,7 @@ body,
   width: 100%;
   height: 3px;
   border-radius: 2px;
-  background: #03a9f4;
+  background: #f38e21;
   transition: transform 200ms linear;
   transform: scaleX(0);
   transform-origin: left;
